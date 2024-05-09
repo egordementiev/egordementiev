@@ -27,4 +27,4 @@ Developed a Telegram shopbot in Python utilizing PostgreSQL and Aiogram framewor
 
 ## Contact
 - [egor.dmnt@gmail.com](mailto:egor@gmail.com)
-- [Linked In](/)
+- [Linked In](https://www.linkedin.com/in/yehor-dementiev/)
