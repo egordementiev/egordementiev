@@ -1,5 +1,5 @@
 ## Hey👋
-I'm Yehor, a 16 years old experienced Full-Stack Python and React Developer
+I'm Yehor, a 17 years old experienced Full-Stack Python and React Developer
 - 👨‍💻 Currently working on my own tool for automatic Google Ads monitoring
 
 ## Сareer & Life path
